@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ekam singh ahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekam singh ahuja" height="30" width="40" /></a>
-<a href="https://kaggle.com/lord sukuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lord sukuna" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ekam singh ahuja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ekam singh ahuja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ekam-singh-ahuja-961053229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekam singh ahuja" height="30" width="40" /></a>
+<a href="https://kaggle.com/ekamsingh123go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lord sukuna" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ekamsinghahuja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ekam singh ahuja" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ekamsinghahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ekamsinghahuja" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ekamsinghahuja123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ekamsinghahuja123" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ekamsinghahuja123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ekamsinghahuja123" height="30" width="40" /></a>

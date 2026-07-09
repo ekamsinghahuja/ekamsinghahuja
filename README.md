@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=header&text=Tech%20I%20Grind%20On&fontSize=40&fontColor=FFFFFF&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F2937&height=70&section=header&text=Tech%20Stack&fontSize=34&fontColor=C084FC" />
 </p>
 
 <p align="center">

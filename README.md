@@ -19,5 +19,12 @@
   <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,redis,kafka,postgres,mysql,aws,maven,git,linux,prometheus,grafana&perline=7" />
 </p>
 
-
+<br/>
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Activity Graph" width="100%">
+</div>
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+</div>
 

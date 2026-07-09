@@ -12,6 +12,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,redis,kafka,postgres,mysql,aws,maven,git,linux,prometheus,grafana&perline=7" />
+</p>
 ---
 
 ## 🧠 About Me

@@ -11,6 +11,9 @@
   </a>
 </p>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=100000&color=C084FC&background=00000000&center=true&vCenter=true&width=300&height=40&lines=Tech+Stack" />
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,redis,kafka,postgres,mysql,aws,maven,git,linux,prometheus,grafana&perline=7" />

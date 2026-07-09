@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F2937&height=70&section=header&text=Tech%20Stack&fontSize=34&fontColor=C084FC" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:E5E7EB,100:1F2937&height=70&section=header&text=Tech%20Stack&fontSize=34&fontColor=FFFFFF" />
 </p>
 
 <p align="center">

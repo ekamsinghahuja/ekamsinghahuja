@@ -12,19 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=70&section=header&text=Tech%20Stack&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=header&text=Tech%20I%20Grind%20On&fontSize=40&fontColor=FFFFFF&fontAlignY=55"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,redis,kafka,postgres,mysql,aws,maven,git,linux,prometheus,grafana&perline=7" />
 </p>
----
 
-## 🧠 About Me
 
-* 🧩 Solving problems on Codeforces regularly
-* 🎯 Current focus: Improving problem-solving (1200 → 1700+)
-* 💻 Comfortable with **C++ & Java**
-* ⚙️ Exploring backend development (Spring, APIs)
-* 🏋️ Also into fitness & discipline
 

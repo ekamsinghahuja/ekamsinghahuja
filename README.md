@@ -1,6 +1,6 @@
 <h1> Hi, I'm Ekam Singh</h1>
 
-💻 Developer | 🧠 Competitive Programmer | 📈 Consistent Learner
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF284B&background=BFBDF9ED&center=true&vCenter=true&width=900&height=120&lines=I+am+a+Developer;I+am+a+Competitive+Programmer;I+am+a+Passionate+Engineer)](https://git.io/typing-svg)
 
 ---
 

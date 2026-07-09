@@ -1,4 +1,4 @@
-# Hi, I'm Ekam Singh 👋
+<h1> Hi, I'm Ekam Singh</h1>
 
 💻 Developer | 🧠 Competitive Programmer | 📈 Consistent Learner
 

@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=200&section=header&text=Ekam%20Singh&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Backend%20Developer%20|%20Java%20|%20Spring%20Boot&descAlignY=58&descColor=E5E7EB"/>
 </p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"

@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:000000,100:8B0000&text=Git%20Activity&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=55" />
+</p>
+
+<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 <div align="center">

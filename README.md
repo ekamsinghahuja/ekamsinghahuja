@@ -3,7 +3,7 @@
 </p>
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="10%" valign="top">
 
 ```text
                                                                                    

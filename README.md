@@ -87,7 +87,7 @@ while (alive) {
 
 <td width="50%" valign="top">
 
-<h3>💻 Programming Languages</h3>
+<h2>💻 Programming Languages</h2>
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -129,7 +129,7 @@ while (alive) {
 
 <td width="50%" valign="top">
 
-<h3>☁️ DevOps & Infrastructure</h3>
+<h2>☁️ DevOps & Infrastructure</h2>
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">

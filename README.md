@@ -48,7 +48,7 @@
 <h2>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    width="40"
+    width="20"
     style="vertical-align:middle;"
   />
   <span style="vertical-align:middle;">

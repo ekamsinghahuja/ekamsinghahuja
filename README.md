@@ -98,6 +98,8 @@
 </tr>
 </table>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ekamsinghahuja123?theme=nord&font=Padauk&ext=heatmap)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Git%20Activity&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />
 </p>

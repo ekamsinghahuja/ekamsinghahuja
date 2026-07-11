@@ -82,15 +82,16 @@ while (alive) {
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,html,css" />
 </p>
 
-### 🚀 Frameworks
+<h3>🚀 Frameworks</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,tailwind" />
@@ -101,41 +102,54 @@ while (alive) {
 <img src="https://img.shields.io/badge/OSGi-555555?style=flat-square">
 </p>
 
+<h3>🔧 Build & Development</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,maven,webpack" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Parcel-EFCB68?style=flat-square">
+</p>
+
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ DevOps & Infrastructure
+<h3>☁️ DevOps & Infrastructure</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins,maven" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins" />
 </p>
 
-### 🗄️ Databases & Messaging
+<h3>🗄️ Databases</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,kafka,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+<h3>📨 Messaging & Communication</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square">
 <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat-square">
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white">
 <img src="https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white">
 </p>
 
-### 📈 Monitoring & Build Tools
+<h3>📈 Monitoring</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,webpack,git" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Parcel-EFCB68?style=flat-square">
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white">
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
 </td>
+
 </tr>
 </table>
 

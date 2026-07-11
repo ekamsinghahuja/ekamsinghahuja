@@ -55,13 +55,21 @@ while (alive) {
 }
 ```
 
-🏆 **1100+** Problems Solved
+### 🌐 Competitive Programming handles
 
-⚡ Passionate about **Algorithms & Backend Engineering**
-
-📈 Consistency > Motivation
-
-🚀 Always chasing the next rating.
+<p>
+  <a href="https://leetcode.com/u/ekamsinghahuja123/">
+    <img src="https://img.shields.io/badge/LeetCode-ekamsinghahuja123-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Codeforces-YOUR_HANDLE-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="https://www.codechef.com/users/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/CodeChef-YOUR_HANDLE-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 

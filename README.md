@@ -55,14 +55,13 @@
    Programming Is My Love ❤️
   </span>
 </h2>
-
-```cpp
-while (alive) {
-    solve();
-    learn();
-    improve();
-}
-```
+<p align="center">
+  <img
+    src="./assests/compiler_art.png"
+    alt="Programming Is My Love"
+    width="100%"
+  />
+</p>
 
 <h3 align="center">Competitive Programming Profiles</h3>
 

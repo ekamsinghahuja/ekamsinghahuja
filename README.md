@@ -52,7 +52,7 @@
     style="vertical-align:middle;"
   />
   <span style="vertical-align:middle;">
-    Competitive Programming
+   Programming Is My Love ❤️
   </span>
 </h2>
 

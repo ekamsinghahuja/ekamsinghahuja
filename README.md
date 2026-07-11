@@ -55,18 +55,18 @@ while (alive) {
 }
 ```
 
-### 🌐 Competitive Programming handles
+### 🌐 Competitive Programming Profiles
 
 <p>
   <a href="https://leetcode.com/u/ekamsinghahuja123/">
     <img src="https://img.shields.io/badge/LeetCode-ekamsinghahuja123-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <br><br>
-  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+  <a href="https://codeforces.com/profile/makeinverse">
     <img src="https://img.shields.io/badge/Codeforces-YOUR_HANDLE-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <br><br>
-  <a href="https://www.codechef.com/users/YOUR_HANDLE">
+  <a href="https://www.codechef.com/users/ekam12345679">
     <img src="https://img.shields.io/badge/CodeChef-YOUR_HANDLE-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>

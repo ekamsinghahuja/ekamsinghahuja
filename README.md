@@ -6,7 +6,7 @@
 <tr>
 <td width="35%" align="left" valign="top">
 
-<img src="./assests/ascii-art__1_-removebg-preview.png" width="320" alt="ASCII Art"/>
+<img src="./assests/ascii-art__1_-removebg-preview.png" height="420" alt="ASCII Art"/>
 
 </td>
 
@@ -181,7 +181,7 @@
 
 <h1>
 <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="32" style="vertical-align:-6px;" />
-&nbsp;  Communication
+&nbsp;Communication
 </h1>
 
 <p>

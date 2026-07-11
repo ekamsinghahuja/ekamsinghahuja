@@ -37,8 +37,51 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:000000,100:8B0000&text=Tech%20Stack&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=55" />
 </p>
 
+## 💻 Programming Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,redis,kafka,postgres,mysql,aws,maven,git,linux,prometheus,grafana&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,html,css" />
+</p>
+
+## 🚀 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSGi-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
+
+## ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,maven" />
+</p>
+
+## 🗄️ Databases & Messaging
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white"/>
+</p>
+
+## 📊 Monitoring & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,grafana,prometheus,webpack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Parcel-EFCB68?style=for-the-badge"/>
 </p>
 
 <p align="center">

@@ -83,7 +83,7 @@ while (alive) {
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <h3>💻 Programming Languages</h3>
 

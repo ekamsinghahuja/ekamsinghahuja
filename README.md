@@ -80,10 +80,10 @@ while (alive) {
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Tech%20Stack&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />
 </p>
 
-<table width="100%">
+<table width="200">
 <tr>
 
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <h3>💻 Programming Languages</h3>
 
@@ -125,7 +125,7 @@ while (alive) {
 
 </td>
 
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <h3>☁️ DevOps & Infrastructure</h3>
 

@@ -125,7 +125,7 @@ while (alive) {
 
 </td>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <h3>☁️ DevOps & Infrastructure</h3>
 

@@ -144,7 +144,7 @@ while (alive) {
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
 </p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=100&section=footer"/>

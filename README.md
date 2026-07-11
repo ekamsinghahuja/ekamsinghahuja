@@ -105,7 +105,10 @@
 
 <td width="50%" valign="top">
 
-<h1>💻 Programming Languages</h1>
+<h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
+&nbsp;Programming Languages
+</h1>
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">

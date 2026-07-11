@@ -33,6 +33,41 @@
 </tr>
 </table>
 
+
+<table>
+<tr>
+
+<td width="50%">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/ekamsinghahuja123?theme=nord&font=Padauk&ext=heatmap)
+
+</td>
+
+<td width="50%" valign="top">
+
+# 💻 I Program Every Day
+
+```cpp
+while (alive) {
+    solve();
+    learn();
+    improve();
+}
+```
+
+🏆 **1100+** Problems Solved
+
+⚡ Passionate about **Algorithms & Backend Engineering**
+
+📈 Consistency > Motivation
+
+🚀 Always chasing the next rating.
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Tech%20Stack&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />
 </p>
@@ -97,8 +132,6 @@
 </td>
 </tr>
 </table>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ekamsinghahuja123?theme=nord&font=Padauk&ext=heatmap)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Git%20Activity&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />

@@ -45,9 +45,15 @@
 
 <td width="50%" valign="top">
 
-<h2 style="display:flex; align-items:center; gap:12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <span>Competitive Programming</span>
+<h2>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    width="40"
+    style="vertical-align:middle;"
+  />
+  <span style="vertical-align:middle;">
+    Competitive Programming
+  </span>
 </h2>
 
 ```cpp

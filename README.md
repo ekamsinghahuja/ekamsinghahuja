@@ -73,9 +73,11 @@ while (alive) {
 
 </td>
 
+
 </tr>
 </table>
 
+<div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Tech%20Stack&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />
 </p>
@@ -171,7 +173,7 @@ while (alive) {
 
 </tr>
 </table>
-
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Git%20Activity&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />
 </p>

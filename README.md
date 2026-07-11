@@ -64,20 +64,30 @@ while (alive) {
 }
 ```
 
-### 🌐 Competitive Programming Profiles
+<h3 align="center">Competitive Programming Profiles</h3>
 
-<p>
-  <a href="https://leetcode.com/u/ekamsinghahuja123/">
-    <img src="https://img.shields.io/badge/LeetCode-ekamsinghahuja123-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<p align="center">
+  <a href="https://leetcode.com/u/ekamsinghahuja123/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" width="48" alt="LeetCode"/>
   </a>
-  <br><br>
-  <a href="https://codeforces.com/profile/makeinverse">
-    <img src="https://img.shields.io/badge/Codeforces-makeinverse-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/makeinverse" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/445F9D" width="48" alt="Codeforces"/>
   </a>
-  <br><br>
-  <a href="https://www.codechef.com/users/ekam12345679">
-    <img src="https://img.shields.io/badge/CodeChef-ekam-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/ekam12345679" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="48" alt="CodeChef"/>
   </a>
+</p>
+
+<p align="center">
+  <strong>LeetCode</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Codeforces</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>CodeChef</strong>
 </p>
 
 </td>

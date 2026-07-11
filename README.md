@@ -45,9 +45,9 @@
 
 <td width="50%" valign="top">
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" />
-  Competitive Programming
+<h2 style="display:flex; align-items:center; gap:12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <span>Competitive Programming</span>
 </h2>
 
 ```cpp

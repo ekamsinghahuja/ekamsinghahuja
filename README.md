@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td width="35%" align="left" valign="top">
+<td width="45%" align="left" valign="top">
 
 <img src="./assests/ascii-art__1_-removebg-preview.png" height="420" alt="ASCII Art"/>
 

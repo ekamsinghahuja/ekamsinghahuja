@@ -124,7 +124,7 @@
 
 <h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" />
-&nbsp;FrameworksFrameworks
+&nbsp;Frameworks
 </h1>
 
 <p>
@@ -181,7 +181,7 @@
 
 <h1>
 <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="32" style="vertical-align:-6px;" />
-&nbsp;Messaging & Communication
+&nbsp;  Communication
 </h1>
 
 <p>

@@ -45,7 +45,10 @@
 
 <td width="50%" valign="top">
 
-# 💻 I Program Every Day
+<h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" />
+  Competitive Programming
+</h2>
 
 ```cpp
 while (alive) {

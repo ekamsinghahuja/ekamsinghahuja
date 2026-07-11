@@ -122,7 +122,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<h1>🚀 Frameworks</h1>
+<h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" />
+&nbsp;FrameworksFrameworks
+</h1>
 
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -136,7 +139,10 @@
 <img src="https://img.shields.io/badge/OSGi-555555?style=for-the-badge">
 </p>
 
-<h1>🔧 Build & Development</h1>
+<h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="32" style="vertical-align:-6px;" />
+&nbsp;Build & Development
+</h1>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -150,7 +156,9 @@
 
 <td width="50%" valign="top">
 
-<h1>☁️ DevOps & Infrastructure</h1>
+<h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
+&nbsp;DevOps & Infrastructure</h1>
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -160,7 +168,8 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
 
-<h1>🗄️ Databases</h1>
+<h1><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />
+&nbsp;Databases</h1>
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -170,7 +179,10 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
-<h1>📨 Messaging & Communication</h1>
+<h1>
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="32" style="vertical-align:-6px;" />
+&nbsp;Messaging & Communication
+</h1>
 
 <p>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
@@ -183,7 +195,10 @@
 <img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white">
 </p>
 
-<h1>📈 Monitoring</h1>
+<h1> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32" style="vertical-align:-6px;" />
+&nbsp;Monitoring
+</h1>
 
 <p>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">

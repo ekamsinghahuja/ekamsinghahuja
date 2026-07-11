@@ -87,7 +87,7 @@ while (alive) {
 
 <td width="50%" valign="top">
 
-<h2>&nbsp;&nbsp;&nbsp;💻 Programming Languages&nbsp;&nbsp;&nbsp;</h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Programming Languages&nbsp;&nbsp;&nbsp;</h2>
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">

@@ -37,52 +37,66 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Tech%20Stack&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />
 </p>
 
-## 💻 Programming Languages
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,html,css" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,html,css" />
 </p>
 
-## 🚀 Frameworks & Libraries
+### 🚀 Frameworks
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,tailwind" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSGi-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/OSGi-555555?style=flat-square">
 </p>
 
-## ☁️ DevOps & Cloud
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,maven" />
+<td width="50%" valign="top">
+
+### ☁️ DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins,maven" />
 </p>
 
-## 🗄️ Databases & Messaging
+### 🗄️ Databases & Messaging
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,kafka,redis" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square">
+<img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat-square">
+<img src="https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white">
 </p>
 
-## 📊 Monitoring & Tools
+### 📈 Monitoring & Build Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,grafana,prometheus,webpack" />
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,webpack,git" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Parcel-EFCB68?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/Parcel-EFCB68?style=flat-square">
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white">
 </p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Git%20Activity&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />

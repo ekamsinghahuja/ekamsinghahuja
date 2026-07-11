@@ -63,11 +63,11 @@ while (alive) {
   </a>
   <br><br>
   <a href="https://codeforces.com/profile/makeinverse">
-    <img src="https://img.shields.io/badge/Codeforces-YOUR_HANDLE-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-makeinverse-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <br><br>
   <a href="https://www.codechef.com/users/ekam12345679">
-    <img src="https://img.shields.io/badge/CodeChef-YOUR_HANDLE-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-ekam-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 

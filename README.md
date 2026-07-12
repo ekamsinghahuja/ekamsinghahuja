@@ -40,7 +40,7 @@
 <td width="50%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cp-insights-three.vercel.app/api/profile?handle=makeinverse&heatmap=true&problemBarGraph=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://cp-insights-three.vercel.app/api/profile?handle=makeinverse&heatmap=true&problemBarGraph=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://cp-insights-three.vercel.app/api/profile?handle=makeinverse&heatmap=true&problemBarGraph=true&theme=light">
   <img alt="Codeforces Profile" src="https://cp-insights-three.vercel.app/api/profile?handle=makeinverse&heatmap=true&problemBarGraph=true">
 </picture>
 

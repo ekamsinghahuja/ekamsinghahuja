@@ -145,28 +145,6 @@
 </tr>
 </table>
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=0:000000,100:8B0000&text=Git%20Activity&descAlign=60&animation=fadeIn&fontColor=FFFFFF&fontSize=25" />
-</p>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile-3d-contrib/profile-night-green.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile-3d-contrib/profile-green-animate.svg"
-    />
-    <img
-      src="./profile-3d-contrib/profile-night-green.svg"
-      alt="3D Contribution Graph"
-    />
-  </picture>
-</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=100&section=footer"/>
-</div>
 
